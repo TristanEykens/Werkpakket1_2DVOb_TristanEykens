@@ -1,0 +1,22 @@
+{
+  "name": "werkpakket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch scss/main.scss:css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanEykens/Werkpakket1_2DVOb_TristanEykens.git"
+  },
+  "author": "Tristan Eykens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanEykens/Werkpakket1_2DVOb_TristanEykens/issues"
+  },
+  "homepage": "https://github.com/TristanEykens/Werkpakket1_2DVOb_TristanEykens#readme",
+  "dependencies": {
+    "sass": "^1.69.0"
+  }
+}
