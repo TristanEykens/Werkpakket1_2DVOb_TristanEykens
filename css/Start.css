@@ -1,0 +1,31 @@
+.Start-section {
+    background-color: transparent;
+    width: 100%;
+    height: 900px;
+}
+
+.Titel_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 2.5%;
+    text-align: Left;
+    font-size: 35px;
+}
+
+.Titel_div h1 {
+    color: white;
+    padding-left: 250px;
+}
+
+.Titel_div img {
+    width: 70%;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+#IntroTekst{
+    padding-left: 19%;
+    color: white;
+}
